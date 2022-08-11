@@ -88,7 +88,7 @@ section .title::after {
     font-size: 20px;
     color: steelblue;
     padding: 0 5px;
-    background: #fff;
+    background: #fafafa;
     transform: translateX(-50%);
 }
 
